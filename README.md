@@ -4,4 +4,4 @@ I'm doing this course to solidify what I have previously learned and get back in
 
 ## Deployed Site
 
-[Click Here] (https://astounding-florentine-668200.netlify.app/)
+[Click Here](https://astounding-florentine-668200.netlify.app/)
