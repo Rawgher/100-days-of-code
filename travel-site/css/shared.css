@@ -1,0 +1,38 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header-logo a {
+  padding: 10px;
+  font-family: 'Oleo Script', sans-serif;
+  color: rgb(245, 243, 160);
+  font-size: 50px;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+#nav-items {
+  max-width: 250px;
+  width: 100%;
+}
+
+#nav-items ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#nav-items li a {
+  text-decoration: none;
+  color: #000;
+}
