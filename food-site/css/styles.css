@@ -5,17 +5,17 @@ body {
 }
 
 #main-header {
-  height: 80px;
+  height: 5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: rgb(29, 26, 24);
-  padding: 0 20px;
+  padding: 0 5%;
 }
 
 #nav-home {
   color: rgb(238, 164, 80);
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
@@ -38,7 +38,7 @@ body {
 #nav-items li a {
   text-decoration: none;
   color: rgb(185, 131, 31);
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 #nav-items li a:hover {
@@ -48,13 +48,13 @@ body {
 main h1 {
   text-align: center;
   color: rgb(238, 164, 80);
-  font-size: 48px;
+  font-size: 3rem;
 }
 
 #latest-products {
   max-width: 80%;
   width: 100%;
-  margin: 50px auto;
+  margin: 2rem auto;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -74,13 +74,14 @@ main h1 {
 }
 
 .food-item-content {
-  padding: 16px;
+  padding: 1rem;
   text-align: center;
   margin-bottom: 20px;
 }
 
 .food-item-content h2 {
   margin-top: 0;
+  margin-bottom: 2.5rem;
 }
 
 .food-item-content .btn {
@@ -88,7 +89,7 @@ main h1 {
   background-color: rgb(228, 157, 44);
   color: #fff;
   border-radius: 4px;
-  padding: 8px 24px;
+  padding: 0.5rem 1rem;
 }
 
 .food-item-content .btn:hover {
